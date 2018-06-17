@@ -2,6 +2,7 @@
 an CHIP-8 emulator written in Java in order to be port to C Language and to be port on PS Vita
 
 ## Roadmap :
+- [ ] auto build project with Travis CI 
 - [ ] build a windows app
 - [ ] build a linux app
 - [ ] port to C language
