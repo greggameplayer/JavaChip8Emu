@@ -1,5 +1,5 @@
 # JavaChip8Emu
-an CHIP-8 emulator written in Java in order to be port to C Language and to be port on PS Vita
+an CHIP-8 emulator written in Java in order to be port to C Language and to be port on PS Vita<br>
 **due to the development state this project is only in english**
 ## Roadmap :
 - [ ] auto build project with Travis CI 
